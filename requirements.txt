@@ -1,2 +1,4 @@
-flask==2.3.3
-z3-solver==4.12.2
+Flask
+z3-solver
+gunicorn
+
